@@ -1,0 +1,40 @@
+#print("122222222")
+#import sys
+
+#sys.stdin.encodin
+
+
+# print('kim')
+# print(40 * 2)
+# print(43 // 2)
+# print(round(2.6))
+
+
+
+def p_core_map():
+	try:
+		with open('dddx.txt', 'r') as t_fo:
+			t_fo.read()
+	except Exception as e:
+		print(e)
+
+	'''
+	for i in range(0, 10):
+		print('오퍼레이션 CWAL: ' + str(i))
+	'''
+
+
+
+p_core_map()
+
+
+
+
+
+
+
+
+
+
+
+여기가 마지막줄 입니다.
